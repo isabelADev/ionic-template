@@ -1,0 +1,8 @@
+{
+  "name": "live-saver",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "live-saver",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
